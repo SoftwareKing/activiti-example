@@ -1,4 +1,4 @@
-package com.xujin.activiti.activiti_hello;
+package com.xujin.activiti;
 
 /**
  * Hello world!
