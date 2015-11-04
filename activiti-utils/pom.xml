@@ -7,10 +7,10 @@
 		<version>0.0.1-SNAPSHOT</version>
 		<relativePath>../activiti-parent/pom.xml</relativePath>
   </parent>
-  <artifactId>activiti-hello</artifactId>
+  <artifactId>activiti-utils</artifactId>
   <packaging>jar</packaging>
 
-  <name>activiti-hello</name>
+  <name>activiti-utils</name>
   <url>http://maven.apache.org</url>
 
   <properties>
