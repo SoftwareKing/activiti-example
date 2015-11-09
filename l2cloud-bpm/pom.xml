@@ -41,12 +41,6 @@
 			<artifactId>spring-boot-starter-web</artifactId>
 			<version>${springboot-version}</version>
 		</dependency>
-		
-		 <!--  <dependency>
-	        <groupId>org.activiti</groupId>
-	         <artifactId>spring-boot-starter-jpa</artifactId>
-	         <version>${activiti.version}</version>
-          </dependency> -->
 
 	</dependencies>
 </project>
